@@ -10,5 +10,5 @@ I also passionate to creating technology to elevate people and encouring others 
 
 - 💻 Currently Working at [Rede](https://www.userede.com.br/)
 
-- ✈️ Open to Remote Job Opportunities 🍻
+- 🚴🏿‍♂️ I love ride my bike
 <br/>
