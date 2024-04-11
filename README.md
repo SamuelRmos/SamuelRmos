@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋🏾
+<br/>
 
-<!--
-**SamuelRmos/SamuelRmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Samuel Ramos](https://www.linkedin.com/in/samuelramos-sjr/), an **Android Developer**  aspiring to become an Expert in the field of **Mobile** development.
+I also passionate to creating technology to elevate people and encouring others to get in the **software development** world.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+- ⛪ Living in **Ouro Preto, Brazil**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Currently Working at [Rede](https://www.userede.com.br/)
+
+- ✈️ Open to Remote Job Opportunities 🍻
+<br/>
