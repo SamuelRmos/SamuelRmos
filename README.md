@@ -6,7 +6,7 @@ I also passionate to creating technology to elevate people and encouring others 
 <br/>
 <br/>
 
-- ⛪ Living in **Ouro Preto, Brazil**
+- ⛪ Living in **Belo Horizonte, Brazil**
 
 - 💻 Currently Working at [Rede](https://www.userede.com.br/)
 
